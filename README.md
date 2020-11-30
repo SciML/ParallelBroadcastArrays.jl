@@ -1,6 +1,6 @@
 # ParallelBroadcastArrays.jl
 
-[![Build Status](https://travis-ci.org/ChrisRackauckas/ParallelBroadcastArrays.jl.svg?branch=master)](https://travis-ci.org/ChrisRackauckas/ParallelBroadcastArrays.jl)
+[![Build Status](https://github.com/SciML/ParallelBroadcastArrays.jl/workflows/CI/badge.svg)](https://github.com/SciML/ParallelBroadcastArrays.jl/actions?query=workflow%3ACI)
 
 [![Coverage Status](https://coveralls.io/repos/ChrisRackauckas/ParallelBroadcastArrays.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/ChrisRackauckas/ParallelBroadcastArrays.jl?branch=master)
 
